@@ -37,3 +37,7 @@ body{
 .navbar-dark{
     background-color: #512DAB;
 }
+
+.rad{
+    visibility:hidden;
+}
